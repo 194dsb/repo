@@ -1,3 +1,3 @@
-FROM  k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
+FROM   rep quay.io/brancz/kube-rbac-proxy:v0.11.0
 
 
